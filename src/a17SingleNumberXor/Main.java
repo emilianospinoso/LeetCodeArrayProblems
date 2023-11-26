@@ -1,3 +1,5 @@
+package a17SingleNumberXor;
+
 import java.util.Arrays;
 
 public class Main {
